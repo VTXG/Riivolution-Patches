@@ -1,0 +1,39 @@
+<!-- Make MR::decPlayerLeft not affect lives -->
+<!-- By VTXG (USA, PAL, JPN, KOR, TWN) -->
+<memory offset="0x800238F8" value="60000000"/>
+
+<!-- Make MR::decPlayerLeft not affect death counter -->
+<!-- By VTXG (USA, PAL, JPN, KOR, TWN) -->
+<memory offset="0x80023900" value="60000000"/>
+
+<!-- Disables PlayerLeft Layout -->
+<!-- By Evanbowl (USA, PAL, JPN) -->
+<memory offset="0x804657F0" value="0x4800001C"/>
+<memory offset="0x804659D8" value="0x48000014"/>
+<memory offset="0x80465B28" value="0x48000008"/>
+<memory offset="0x80465BA8" value="0x48000008"/>
+<memory offset="0x80465C90" value="0x60000000"/>
+<memory offset="0x80465C94" value="0x3B600001"/>
+<memory offset="0x80465C98" value="0x4800004C"/>
+<memory offset="0x80465EEC" value="0x48000014"/>
+<memory offset="0x80465F6C" value="0x48000014"/>
+<memory offset="0x80466014" value="0x48000014"/>
+
+<!-- Disables Worldmap PlayerLeft Layout (Not GLE Compatible) -->
+<!-- By Evanbowl (USA, PAL, JPN) -->
+<memory offset="0x804A8E20" value="0x48000018"/>
+<memory offset="0x804A8E74" value="0x48000008"/>
+<memory offset="0x804A8F04" value="0x48000014"/>
+<memory offset="0x804A8F64" value="0x48000008"/>
+<memory offset="0x804A8FDC" value="0x48000014"/>
+<memory offset="0x804A9060" value="0x48000024"/>
+<memory offset="0x804A9214" value="0x4800003C"/>
+
+<!-- Disables PlayerMissLeft Layout -->
+<!-- By VTXG (USA, PAL, JPN) -->
+<memory offset="0x80489280" value="4E800020"/>
+<memory offset="0x80489350" value="4E800020"/>
+<memory offset="0x804893B0" value="4E800020"/>
+<memory offset="0x804893F0" value="4E800020"/>
+<memory offset="0x804894F0" value="4E800020"/>
+<memory offset="0x80489580" value="4E800020"/>
