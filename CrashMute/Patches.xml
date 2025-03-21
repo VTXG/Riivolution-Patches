@@ -1,0 +1,5 @@
+<!-- Mute Crash Audio (By VTXG) (USA, PAL, JPN) -->
+<memory offset="0x804B7E6C" value="480FD4B4"/>
+
+<!-- Mute Crash Audio (By VTXG) (KOR, TWN) -->
+<memory offset="0x804B7EDC" value="480FD444"/>
