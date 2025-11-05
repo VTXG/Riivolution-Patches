@@ -1,0 +1,6 @@
+<!-- Change the stars required for file select completion crowns. -->
+<!-- By VTXG (USA, PAL, JPN) -->
+<!-- XXXX: Minimum number of stars in hexadecimal. Value must be smaller than 0x7FFF. -->
+<memory offset="0x8046DE08" value="801E00302C00XXXX40800018"/> <!-- Platinum -->
+<memory offset="0x8046DE28" value="801E00302C00XXXX40800018"/> <!-- Gold     -->
+<memory offset="0x8046DE48" value="801E00302C00XXXX40800018"/> <!-- Silver   -->
